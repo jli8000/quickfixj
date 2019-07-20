@@ -91,4 +91,15 @@ public class FileUtilTest {
         }
         return false;
     }
+
+    public void x(){
+       class xx{
+          int _x;
+          int _x(){
+             return _x;
+          }
+
+       }
+    }
+
 }
